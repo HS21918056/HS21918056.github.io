@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/HS21918056/hs21918056.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HS21918056/hs21918056.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# ABOUT ME <h1>
+  My name is Janith Athapaththu. I am 20 years old now. I am living in Kurunegala. I went to school at Maliyadeva Boys' College. I passed the Advanced level examination and am now studying as a student at the sliit campus in Malabe.
+  ![DSC_0221](https://user-images.githubusercontent.com/91968842/136142332-da2218f9-9cfd-4498-bfb4-7288c9264692.JPG)
+## EDUCATIONAL QUALIFICATIONS <h1> 
+**Oridinary Level Examination**
+  1. Mathematics - A 
+  2. Science     - A 
+  3. History     - A
+  4. Buddhism    - A
+  5. Sinhala     - A
+  6. Health      - A
+  7. English     - B
+  8. Music       - B
+  9. Commerce    - B
+  
+   **Advanced Level Examination**
+  1. Bio-Science - S
+  2. Chemistry   - S
+  3. Physics     - S
+  ### OTHER SKILLS <h3> 
+  * Video Editing
+  * Photo Editing
+  * Videography and Photography
+  * Playing Badminton 
+  * Playing Cricket
+  #### HOBBIES <h4>
+  * Riding Bicycles
+  * Playing Guitar 
+  
+ 
+  http://file:///E:/SLIIT/Semester%201/Intro%20to%20IT/Resume%20-%20HS21918056.pdf
+  ##### CONTACT DETAILS <h5>
+  * hs21918056@my.sliit.lk
+  
+  
+  
+  
+  
+  
